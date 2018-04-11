@@ -7,3 +7,7 @@
 
 ### node相关文章
 - [转-node调试工具入门](http://www.ruanyifeng.com/blog/2018/03/node-debugger.html)
+
+
+### 前端性能相关
+- [转-前端性能检查表](https://juejin.im/post/5ac1d117f265da2396128b9f)
